@@ -1,1 +1,1 @@
-# ML-AI
+Introduction to machine learning
