@@ -6,5 +6,3 @@ An artificial neural network is a collection of simple interconnected algorithms
 The ANN model is organized in layers, each one made up of interconnected nodes. The input layer communicates with one or more hidden layers. Here, the nodes take the weighted connections and use an activation function to pass their signal to the output layer.
 
 ![Description of Image]( images/Colored_neural_network.svg)
-
-  
